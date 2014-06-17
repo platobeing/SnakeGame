@@ -1,11 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿/******************************************************************************
+ * Filename:     Program.cs
+ * Author:       platobeing<platobeing(c)gmail.com>
+ * Created Date: 2014-06-15
+ * Description:  The entry class.
+ * ****************************************************************************
+ * Winter is coming.
+ * ***************************************************************************/
 
 namespace Snake
 {
+    using System;
+    using System.Windows.Forms;
+
     static class Program
     {
         /// <summary>
